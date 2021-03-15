@@ -1,5 +1,6 @@
 <div *ngIf="article" class="jumbotron">
-  <h3> {{this.article.title}} <a [routerLink]="['/articles', article.id]">View</a> </h3>
+  <a routerLink="/articles">Back to articles</a>
+  <h3> {{this.article.title}}</h3>
   <button (click)="delete()">Delete</button>
   <p class="lead"> {{this.article.content}} </p>
   <blockquote>Written by {{this.article.authors}}</blockquote>

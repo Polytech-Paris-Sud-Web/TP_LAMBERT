@@ -1,0 +1,16 @@
+{
+  "articles": [
+    {
+      "title": "Fake Title 1",
+      "content": "abcde",
+      "authors": "Paulin",
+      "id": 1
+    },
+    {
+      "title": "Fake Title 2",
+      "content": "abcdefg",
+      "authors": "Paulin",
+      "id": 2
+    }
+  ]
+}

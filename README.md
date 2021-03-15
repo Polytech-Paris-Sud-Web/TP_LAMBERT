@@ -1,6 +1,4 @@
-# SimpleApp
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.0.
+# TP Angular Paulin LAMBERT
 
 ## Development server
 
